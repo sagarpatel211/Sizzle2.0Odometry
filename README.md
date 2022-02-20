@@ -46,4 +46,4 @@ This is our motion algorithm for an x-drive using odometry and 3 PID feedback lo
 
 
 ## Contact
-[Email](mailto:patelsag@students.dsbn.org) | [Website](https://sagarpatel211.github.io/)
+[Email](mailto:sa24pate@uwaterloo.ca) | [Website](https://sagarpatel211.github.io/)
